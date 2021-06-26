@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying cosmology
 -- 👯 I’m looking into primordial black holes.
 - 🤔 I’m looking for help with Levin's method to integrate products of Bessel's functions
