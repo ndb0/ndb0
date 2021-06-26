@@ -9,4 +9,4 @@
 - 💬 Interests: Bengali literature
 - 📫 How to reach me: nilanjandevbhaumik@gmail.com
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: Facts are mostly sad.
+- ⚡ Fun fact: Facts are not quite adequate in this context.
