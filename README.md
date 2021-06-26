@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi I am Nilanjan 👋
 
-<!--
-**ndb0/ndb0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studying cosmology
+-- 👯 I’m looking into primordial black holes.
+- 🤔 I’m looking for help with Levin's method to integrate products of Bessel's functions
+- 🌱 I’m currently learning to write stories.
+- 💬 Interests: Bengali literature
+- 📫 How to reach me: nilanjandevbhaumik@gmail.com
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: Facts are mostly sad.
 -->
