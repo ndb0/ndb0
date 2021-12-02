@@ -1,7 +1,6 @@
-### Hi I am Nilanjan
-===================
-inflation_CAMB
-===================
+========================
+Nilanjandev Bhaumik
+========================
 
 ##::
  :#currently studying: cosmology
