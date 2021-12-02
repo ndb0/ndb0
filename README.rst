@@ -6,11 +6,11 @@ Nilanjandev Bhaumik
 :Inspirepage: https://inspirehep.net/authors/1726209
 :ORCid: 0000-0003-3541-7263
 
-.. image:: https://commons.wikimedia.org/wiki/File:ArXiv_web.svg
+.. image:: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico
         :target: https://arxiv.org/abs/1907.04125
-.. image:: https://commons.wikimedia.org/wiki/File:ArXiv_web.svg
+.. image:: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico
    :target: https://arxiv.org/abs/2009.10424
-.. image:: https://commons.wikimedia.org/wiki/File:ArXiv_web.svg
+.. image:: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico
    :target: https://arxiv.org/abs/1607.03704
 
 
