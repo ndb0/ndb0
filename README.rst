@@ -6,12 +6,12 @@ Nilanjandev Bhaumik
 :Inspirepage: https://inspirehep.net/authors/1726209
 :ORCid: 0000-0003-3541-7263
 
-.. image:: https://img.shields.io/pypi/v/camb.svg?style=flat
-        :target: https://pypi.python.org/pypi/camb/
-.. image:: https://img.shields.io/conda/vn/conda-forge/camb.svg
-   :target: https://anaconda.org/conda-forge/camb
-.. image:: https://readthedocs.org/projects/camb/badge/?version=latest
-   :target: https://camb.readthedocs.org/en/latest
+.. image:: https://commons.wikimedia.org/wiki/File:ArXiv_web.svg
+        :target: https://arxiv.org/abs/1907.04125
+.. image:: https://commons.wikimedia.org/wiki/File:ArXiv_web.svg
+   :target: https://arxiv.org/abs/2009.10424
+.. image:: https://commons.wikimedia.org/wiki/File:ArXiv_web.svg
+   :target: https://arxiv.org/abs/1607.03704
 .. image:: https://travis-ci.org/cmbant/camb.svg?branch=master
   :target: https://travis-ci.org/cmbant/camb/builds
 .. image:: https://mybinder.org/badge.svg
