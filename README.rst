@@ -1,10 +1,10 @@
 ===================
-inflation_CAMB
+Nilanjandev Bhaumik
 ===================
-:CAMB: Code for Anisotropies in the Microwave Background
-:Original_Authors: Antony Lewis and Anthony Challinor
-:GNMDC Inflationary code and chi^2 calculation by: Nilanjandev Bhaumik
-:Homepage: https://github.com/ndb0/Camb_with_gnmdc_sin_along_with_clik_chi_sqr_02.12.2021.git
+:Working in: Early Universe Cosmology
+:Institution: IISc Bangalore
+:Inspirepage: https://inspirehep.net/authors/1726209
+:ORCid: 0000-0003-3541-7263
 
 .. image:: https://img.shields.io/pypi/v/camb.svg?style=flat
         :target: https://pypi.python.org/pypi/camb/
