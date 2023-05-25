@@ -13,7 +13,12 @@ Nilanjandev Bhaumik
 .. image:: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico
    :target: https://arxiv.org/abs/2009.10424
 .. image:: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico
+   :target: https://arxiv.org/abs/2205.06260
+.. image:: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico
+   :target: https://arxiv.org/abs/2206.13320
+.. image:: https://static.arxiv.org/static/browse/0.3.2.8/images/icons/favicon.ico
    :target: https://arxiv.org/abs/2212.00775
+
 
 
 
