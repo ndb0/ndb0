@@ -1,7 +1,7 @@
 ===================
 Nilanjandev Bhaumik
 ===================
-:Working in: Early Universe Cosmology
+:Working in: Early Universe Cosmology,PBHs,Inflation
 :Institution: IISc Bangalore
 :Inspirepage: https://inspirehep.net/authors/1726209
 :ORCid: 0000-0003-3541-7263
